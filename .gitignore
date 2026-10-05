@@ -1,0 +1,10 @@
+# 1. credentials Most important 
+
+key.json
+*.json
+
+# 2. Terraform key runtime files
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
